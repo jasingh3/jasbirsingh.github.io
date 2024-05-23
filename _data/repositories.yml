@@ -1,12 +1,8 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - jasingh3
+  
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - jasingh3/Text-Mining-and-Natural-language-Processing
+  - jasingh3/InfoInfra_TicketBooking_Team21 
+  - jasingh3/DataTransfromationDotnet
